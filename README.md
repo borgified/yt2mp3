@@ -1,5 +1,6 @@
-# Dockerized youtube-dl
-[youtube-dl](rg3/youtube-dl) is a python script 
+# YouTube to mp3 (yt2mp3)
+
+This is dockerized [youtube-dl](http://rg3.github.io/youtube-dl/)
 
 ### Prerequisites
 
